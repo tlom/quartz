@@ -2,4 +2,4 @@ Layanas Charakter
 
 Schwarzfuß stamm
 
-Zögling von [[Titawin]]
+Zögling von [Titawin](Titawin.md)

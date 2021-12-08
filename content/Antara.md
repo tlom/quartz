@@ -40,7 +40,7 @@ und Menschen bewohnt. Letztere sind eine Plage für die
 Küsten Merenors, da sie jeden Sommer mit ihren
 Langbooten Überfälle auf Schiffe und Küstenorte verüben.
 
-### [[Merenor]]
+### [Merenor](Merenor.md)
 Merenor ist der Name eures Heimatkontinents. Er
 beherbergt eine Vielzahl von Ländern und Völkern. Der
 Kontinent wird von drei großen Gebirgsketten geteilt: den

@@ -2,4 +2,4 @@ Eigener Charakter
 
 ...
 
-schüler/zöglig: [[Layana]]
+schüler/zöglig: [Layana](Layana.md)
