@@ -1,18 +1,49 @@
----
-title: 🪴 Quartz v2.1
----
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Beautiful, out-of-the-box website creation and deployment
-3. Display for backlinks of each note
-4. A customizable graph view
-5. Endlessly powerful page and theme customization
+# Antara
+Der Name der Welt in der unser Abenteuer
+stattfinden wird ist Antara. Sie verfügt über fünf
+Kontinente, die in eurer Heimat wie folgt
+bezeichnet werden: Die Riesenlande, die
+Wildlande, die Drachenlande, die Eislande und
+schließlich Merenor.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+### Die Riesenlande
+Ein weit entfernter Ort den man nur aus Legenden kennt. Es
+ist niemand bekannt der jemals nach dort aufgebrochen ist
+und zurückkehrte um davon zu erzählen. Seine Bewohner
+sollen die Merenors in ihrer Größe um ein vielfaches
+überragen.
 
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+### Die Wildlande
+Ein noch weiter entfernter Ort, voller ungezügelter Wildnis,
+bewohnt von unzivilisierten Völkern. Angeblich sollen
+darüber fliegende Inseln schweben auf denen Vogelmenschen
+leben. Sehr selten brechen Expeditionen auf um dieses ferne
+Land zu erkunden, und noch seltener kehren welche mit
+großen Reichtümern und stark dezimierter Besatzung zurück.
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+### Die Drachenlande
+Ein vergleichsweiser kleiner und naher Kontinent im Süd-
+Westen von Merenor. Dort leben die namensgebenden
+Drachen. Vor etwas über einem Jahrtausend endete ein
+verheerender Krieg zwischen den Drachen und den Völkern
+von Merenor. Das Ende dieses Krieges dient heute noch als
+Beginn der Zeitrechnung. Von Zeit zu Zeit verirrt sich eines
+dieser Geschöpfe nach Merenor, um dort eine Weile Angst
+und Schrecken zu stiften, bis es sich dann entweder
+zurückzieht oder von heldenhaften Abenteurern erschlagen
+wird.
+
+### Die Eislande
+Die Eislande beginnen nur wenige duzend Kilometer
+nördlich von Merenor. Sie sind von Schneeelfen, Eiszwergen
+und Menschen bewohnt. Letztere sind eine Plage für die
+Küsten Merenors, da sie jeden Sommer mit ihren
+Langbooten Überfälle auf Schiffe und Küstenorte verüben.
+
+### [[Merenor]]
+Merenor ist der Name eures Heimatkontinents. Er
+beherbergt eine Vielzahl von Ländern und Völkern. Der
+Kontinent wird von drei großen Gebirgsketten geteilt: den
+grauen Bergen im Nord-Westen, den Eisenbergen im Nord-
+Osten und der Zinnenmauer im Süd-Westen.
+
