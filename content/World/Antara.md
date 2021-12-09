@@ -27,7 +27,7 @@ Westen von Merenor. Dort leben die namensgebenden
 Drachen. Vor etwas über einem Jahrtausend endete ein
 verheerender Krieg zwischen den Drachen und den Völkern
 von Merenor. Das Ende dieses Krieges dient heute noch als
-Beginn der Zeitrechnung. Von Zeit zu Zeit verirrt sich eines
+Beginn der [Zeitrechnung](https://app.fantasy-calendar.com/calendars/db16105286616f864c5ad4a29bbca46a). Von Zeit zu Zeit verirrt sich eines
 dieser Geschöpfe nach Merenor, um dort eine Weile Angst
 und Schrecken zu stiften, bis es sich dann entweder
 zurückzieht oder von heldenhaften Abenteurern erschlagen

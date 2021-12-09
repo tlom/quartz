@@ -1,4 +1,9 @@
-Eigener Charakter
+# Titawin
+###### Timons Charakter
+
+#### Rasse: Bergzwerg
+#### Klasse: Fighter
+
 
 ...
 

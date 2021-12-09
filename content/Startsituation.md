@@ -1,3 +1,4 @@
+# Startsituation
 Dein Charakter befindet sich zur Zeit in oder in der Nähe von
 Ronosfall, in [Tenorien](World/Tenorien.md). Womöglich gehört ihr zum Gefolge von Herzog Sebastien von Arnia oder zu dem von Erzherzog
 Ferlonius von Landern, oder seid aus anderen Gründen in
@@ -22,3 +23,16 @@ wird er von den Einheimischen gefürchtet, seit er alle 841
 Männer, Frauen und Kinder des Stammes köpfen, und ihre
 Köpfe auf Spieße entlang der Straße nach Ronosfall stecken
 ließ.
+
+
+## Motivation
+Ihr habt, oder entwickelt in dieser Zeit, eine Beziehung zu
+Eleonora Laureola von Arnia (der Braut) die euch motiviert
+sie auf ihren Wunsch hin bei einer dummen, und womöglich
+lebensgefährlichen Aktion zu begleiten. Das könnte bedeuten
+dass ihr sehr gut mit ihr befreundet oder in sie verliebt seid,
+ihr persönlich treu seid, ihr etwas schuldet oder sie euch
+anderweitig in der Hand hat. Möglicherweise habt ihr auch
+Gründe ihrem Vater oder ihrer Familie zu schaden oder sie
+zu unterstützen. Egal was es ist, ihr benötigt eine
+Startmotivation, um auf dieses Abenteuer zu gehen.
