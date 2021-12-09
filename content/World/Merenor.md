@@ -6,7 +6,7 @@ grauen Bergen im Nord-Westen, den Eisenbergen im Nord-
 Osten und der Zinnenmauer im Süd-Westen.
 
 Westlich der grauen Berge liegen Cantera und der
-ursprüngliche Teil Tenoriens, sowie das kleine
+ursprüngliche Teil [Tenoriens](World/Tenorien.md), sowie das kleine
 Waldelfenkönigreich Felion.
 Zwischen den grauen Bergen und den Eisenbergen findet
 man die Halblingslande, Heimat der Leichtfüßigen, und den
@@ -46,3 +46,5 @@ von Hash im Norden.
 Der südlichste Punkt Merenors ist auf der goldenen
 Halbinsel, wo sich das ebenso kleine wie ressourcenreiche
 Menschenreich Destrenia befindet.
+
+![Merenor](Attachments/Merenor.png)

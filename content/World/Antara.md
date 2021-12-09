@@ -4,7 +4,7 @@ stattfinden wird ist Antara. Sie verfügt über fünf
 Kontinente, die in eurer Heimat wie folgt
 bezeichnet werden: Die Riesenlande, die
 Wildlande, die Drachenlande, die Eislande und
-schließlich Merenor.
+schließlich [Merenor](World/Merenor.md).
 
 ### Die Riesenlande
 Ein weit entfernter Ort den man nur aus Legenden kennt. Es
@@ -40,7 +40,7 @@ und Menschen bewohnt. Letztere sind eine Plage für die
 Küsten Merenors, da sie jeden Sommer mit ihren
 Langbooten Überfälle auf Schiffe und Küstenorte verüben.
 
-### [Merenor](Merenor.md)
+### [Merenor](World/Merenor.md)
 Merenor ist der Name eures Heimatkontinents. Er
 beherbergt eine Vielzahl von Ländern und Völkern. Der
 Kontinent wird von drei großen Gebirgsketten geteilt: den
