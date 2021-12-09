@@ -2,4 +2,4 @@
 
 # [World](World/Antara.md)
 
-# [Charaktere](Charakter/Eleonora.md)
+# [Charaktere](Charakter/Charaktere)

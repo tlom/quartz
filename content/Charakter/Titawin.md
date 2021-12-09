@@ -5,6 +5,7 @@
 #### Klasse: Fighter
 
 
+
 ...
 
-schüler/zöglig: [Layana](Charakter/Layana.md)
+Schüler/Zöglig: [Erydani](Charakter/Erydani.md)
