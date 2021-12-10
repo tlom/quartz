@@ -16,7 +16,8 @@ Sie stellt sie gemeinsam gegenseitig vor und erzählt von den Komplikationen, di
   
 Als sie Gefahr laufen auf eine Händlergruppe zu treffen, verstecken sie sich hinter einem Hügel damit [Eleonora](Charakter/Player/Eleonora.md) nicht erkannt wird. Dort erzählt sie von Ihrem Plan Frieden zu schaffen mithilfe einer Reformation von innen heraus.
 
-Man macht sich nun auf den Weg richtung Wald Elfenlande, nach einer stunde hört man das klappern Hufe. Die Gruppe bewegt sich vorsichtig, allerdings macht [Titawin](Charakter/Player/Titawin.md) eine menge Lärm weswegen endwieden wird das nun schnell gereist wird. Nach einer Halben stunde trift die Gruppe einen Mann der sich das Bein hält. 
-Nach ein paar Sätzen stellt es sich heraus das dies eine Falle ist welche von Banditen augestellt wurde.
-[Eleonora](Charakter/Player/Eleonora.md) bemerkt eine kette mit einem Kreutz, doch sieht diese nicht abnormal aus.
-Nach einem Langen gespäch zwischen den Banditen und [Eleonora](Charakter/Player/Eleonora.md) geht er rum und möchte allen Ihr geld abknöpfen. [Torian](Charakter/Player/Torian.md) bemerkt das er eine kette von Nora trägt und fordet Ihn zu einem 1v1 Duell.
+Man macht sich nun auf den Weg Richtung Wald Elfenland, nach einer Stunde hört man das klappern Hufe. Die Gruppe bewegt sich vorsichtig, allerdings macht [Titawin](Charakter/Player/Titawin.md) eine Menge Lärm, weswegen entschieden wird, dass nun schnell gereist wird. Nach einer Stunde Trift die Gruppe einen Mann, der sich das Bein hält.  
+Nach ein paar Sätzen stellt es sich heraus das dies eine Falle ist welche von Banditen aufgestellt wurde.  
+[Eleonora](Charakter/Player/Eleonora.md) bemerkt eine Kette mit einem Kreuz, doch sieht diese nicht abnormal aus.  
+Nach einem langen Gespräch zwischen den Banditen und [Eleonora](Charakter/Player/Eleonora.md) geht er rum und möchte allen Ihr Geld abknöpfen. [Torian](Charakter/Player/Torian.md) bemerkt, dass er eine kette, von Nora trägt und fordert ihn zu einem 1v1 Duell.  
+Nach dem Schlag Abtausch den [Torian](Charakter/Player/Torian.md) gewonnen hat, lassen die Banditen sie gehen und die Gruppe mach sich weiter auf den weg Richtung Elfenland.
