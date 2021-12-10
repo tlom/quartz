@@ -51,4 +51,4 @@ zusammen:
 6. Stand: Bauern, Handwerker
 
 
-![TenorienPapierkarte](Attachments/TenorienLowres.png)
+![TenorienPapierkarte](https://github.com/tlom/quartz/blob/hugo/content/Attachments/TenorienLowres.PNG?raw=true)

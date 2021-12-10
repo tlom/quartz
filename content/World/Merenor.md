@@ -47,4 +47,4 @@ Der südlichste Punkt Merenors ist auf der goldenen
 Halbinsel, wo sich das ebenso kleine wie ressourcenreiche
 Menschenreich Destrenia befindet.
 
-![Merenor](Attachments/Merenor.png)
+![Merenor](https://github.com/tlom/quartz/blob/hugo/content/Attachments/Merenor.png?raw=true)
