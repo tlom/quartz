@@ -1,0 +1,1 @@
+ hugo-obsidian -input=content -output=data -index=true & cd C:\Git\quartz & ./hugo server
