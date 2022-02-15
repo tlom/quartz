@@ -7,6 +7,7 @@ komplizierter Politik, seinen eisernen Werten,
 einem starren Ständewesen und, in den letzten
 drei Jahrhunderten, unaufhaltbarer Expansion.
 
+
 ### Politik
 Tenorien wird regiert durch Kaiserin Amaria von Tenora II.
 Unter ihr erstreckt sich eine Struktur aus Grafen, Baronen
@@ -50,5 +51,5 @@ zusammen:
 5. Stand: Händler, Wohlhabende
 6. Stand: Bauern, Handwerker
 
-
-![TenorienPapierkarte](https://github.com/tlom/quartz/blob/hugo/content/Attachments/TenorienLowres.PNG?raw=true)
+![TenorienWappen|200](https://i.imgur.com/6v0fNxN.png)
+![TenorienPapierkarte|700](https://github.com/tlom/quartz/blob/hugo/content/Attachments/TenorienLowres.PNG?raw=true)

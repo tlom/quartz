@@ -111,3 +111,4 @@ Aussehen: Wenn man dieses Tier sieht, sieht man 2-Augen, auf dem Flügel und 2 G
 
 **
 
+Torians Haare sind Weiß und wenn Fate Veldaunt in Torian drin ist, werden sie Braun.

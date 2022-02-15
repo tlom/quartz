@@ -1,6 +1,6 @@
 # Startsituation
 Dein Charakter befindet sich zur Zeit in oder in der Nähe von
-Ronosfall, in [Tenorien](World/Tenorien.md). Womöglich gehört ihr zum Gefolge von Herzog Sebastien von Arnia oder zu dem von Erzherzog
+Ronosfall, in [Tenorien](World/Länder/Tenorien.md). Womöglich gehört ihr zum Gefolge von Herzog Sebastien von Arnia oder zu dem von Erzherzog
 Ferlonius von Landern, oder seid aus anderen Gründen in
 der Stadt. Der Herzog ist mitsamt Gefolge vor einer Woche
 in der Stadt eingetroffen. Dort soll in zwei Tagen eine Ehe
